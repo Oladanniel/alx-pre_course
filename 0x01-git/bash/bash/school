@@ -1,2 +1,5 @@
- #!/bin/bash
- echo "The school is open!"
+#!/bin/bash
+<<<<<<< HEAR
+echo "Alx School is so cool!"
+-------
+>>>>>>> update_script 
